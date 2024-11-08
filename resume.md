@@ -50,7 +50,7 @@ hand -->
 - Created data scraping scripts and machine learning models.  
 *Technologies: Python, Selenium, sklearn*
 
-### <span>Intern Software Engineer, Codescalers - Egypt</span> <span>Jul 2016 -- Sept 20160</span>
+### <span>Intern Software Engineer, Codescalers - Egypt</span> <span>Jul 2016 -- Sept 2016</span>
 
 - Developed internal dashboards for monitoring cloud servers.  
 *Technologies: Python, Flask*
