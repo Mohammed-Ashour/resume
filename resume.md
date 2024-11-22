@@ -54,15 +54,6 @@ hand -->
 
 - Developed internal dashboards for monitoring cloud servers.  
 *Technologies: Python, Flask*
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
 
 ## Education
 
