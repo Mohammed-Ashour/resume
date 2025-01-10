@@ -39,6 +39,12 @@ hand -->
 
 *Technologies:* Python, Git, NLP, Redis, Docker
 
+### <span>Software Specialized Officer , Egypt Air Forces</span> <span>Oct 2018 -- Oct 2020</span>
+
+- Developing and maintaining software systems for many departments across the Air Forces Using Technologies like C# and Oracle databases 
+
+*Technologies:* C#, Oracle Database
+
 
 ### <span>Software Engineer, Elements Financial Technologies </span> <span>Aug 2017 -- Mar 2018</span>
 - Developed and maintained software systems for various departments using C# and Oracle databases.  
@@ -58,8 +64,6 @@ hand -->
 ## Education
 
 ### <span>B.Sc. Computer & Systems Engineering, Mansoura University, Egypt</span> <span>2012 -- 2017</span>
-
-<br>
 
 ## Skills
 
