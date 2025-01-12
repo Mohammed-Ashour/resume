@@ -76,3 +76,4 @@ hand -->
 ## Additional Information
 - **Blog:** Sharing insights on software engineering and machine learning at blog.m-ashour.space
 - **Interests:** Continuous learning, contributing to open-source projects, community mentorship
+- **Youtube:** Sharing engineering educational content  @ https://www.youtube.com/@mohammedashour1994/
