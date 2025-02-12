@@ -12,7 +12,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Experienced Software Engineer with over 7 years of expertise in software development, real-time data processing, machine learning, and cloud technologies. Proven track record in building scalable systems, reducing costs, and leading cross-functional projects. Proficient in Python, Golang, and other programming languages, with a strong understanding of large scale systems, machine learning concepts, and cloud services.
+Senior Software Engineer with **7+ years of progressive experience** in **real-time data processing**, **machine learning**, and **cloud technologies**. Proven success in **building scalable systems**, reducing costs by significant margins, and leading cross-functional teams to deliver high-impact solutions. Adept in **Python**, **Golang**, and **AWS**, with strong knowledge of data structures, algorithms, and **DevOps** practices. Seeking to leverage expertise in delivering robust, maintainable software architectures to drive innovation and efficiency.
 
 
 ## Experience
@@ -21,11 +21,11 @@ Experienced Software Engineer with over 7 years of expertise in software develop
 hand -->
 ### <span>Software Engineer, Spire Global</span> <span>Jan 2022 -- Present</span>
 
-- Developed real-time data processing and delivery systems for GNSS-R/RO satellite data with strict SLAs for customers like NASA, NOAA, and EUMETSAT.
-- Collaborated with scientists and led the engineering efforts to develop and deploy an ML-based project for sea ice detection and classification.
-- Built tools that helped reduce AWS costs by *$250K annually*.  
-
-*Technologies:* Python, AWS, Docker, Postgres, Terraform, DynamoDB, Go, Jenkins
+- Developed **real-time data processing** and delivery systems for GNSS-R/RO satellite data with **strict latency requirements**, servicing customers such as NASA, NOAA, and EUMETSAT.  
+- Led an **ML-based sea ice detection** project, collaborating with scientists from concept to **production deployment**.  
+- Implemented cost optimization strategies, **reducing AWS expenses by $250K annually**.  
+- Employed **CI/CD pipelines** (Jenkins) and **Infrastructure as Code** (Terraform) to ensure scalable and reliable product releases.  
+*Technologies:* Python, Go, AWS, Docker, Postgres, Terraform, DynamoDB, Jenkins
 
 ### <span>Software Engineer, Yaoota</span> <span>Oct 2020 -- Dec 2021</span>
 
@@ -37,18 +37,18 @@ hand -->
   - Kipp: Main scraper for Yaoota, collecting product data across the internet.
   - Case: Internal NLP library for data processing.
 
-*Technologies:* Python, Git, NLP, Redis, Docker
+*Technologies: Python, Git, NLP, Redis, Docker*
 
 ### <span>Software Specialized Officer , Egypt Air Forces</span> <span>Oct 2018 -- Oct 2020</span>
 
 - Developing and maintaining software systems for many departments across the Air Forces Using Technologies like C# and Oracle databases 
 
-*Technologies:* C#, Oracle Database
+*Technologies: C#, Oracle Database*
 
 
 ### <span>Software Engineer, Elements Financial Technologies </span> <span>Aug 2017 -- Mar 2018</span>
-- Developed and maintained software systems for various departments using C# and Oracle databases.  
-*Technologies: C#, Oracle Database*
+- Developing a Payment Gateway as a service for providing online payments for small/mid-level/big businesses
+*Technologies: Nodejs, MongoDB, Docker, AWS*
 
 
 
