@@ -1,79 +1,86 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Mohamed Ashour
-<p align="center"><strong>Senior Software Engineer</strong></p>
+**Senior Software Engineer**
 
+- **Email:** m.aly.ashour@gmail.com
+- **Blog:** [blog.m-ashour.space](http://blog.m-ashour.space)
+- **Location:** Luxembourg, Luxembourg
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <m.aly.ashour@gmail.com>
-- (+352) 691136420
-- [blog.m-ashour.space](http://blog.m-ashour.space)
-- Luxembourg - Luxembourg
+---
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-Senior Software Engineer with **7+ years of progressive experience** in **real-time data processing**, **machine learning**, and **cloud technologies**. Proven success in **building scalable systems**, reducing costs by significant margins, and leading cross-functional teams to deliver high-impact solutions. Adept in **Python**, **Golang**, and **AWS**, with strong knowledge of data structures, algorithms, and **DevOps** practices. Seeking to leverage expertise in delivering robust, maintainable software architectures to drive innovation and efficiency.
+## Professional Summary
+Senior Software Engineer with **7+ years of experience** in **real-time data processing**, **machine learning**, and **cloud technologies** and leading lean Software Engineering teams. Proven expertise in **building scalable systems**, optimizing costs, and leading cross-functional teams to deliver impactful solutions. Proficient in **Python**, **Golang**, and **AWS**, with a strong foundation in **data structures**, **algorithms**, and **DevOps** practices. Seeking to leverage my skills to drive innovation and efficiency in software development.
 
+---
 
-## Experience
+## Professional Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>Software Engineer, Spire Global</span> <span>Jan 2022 -- Present</span>
+### **Software Engineer**
+**Spire Global** | Jan 2022 – Present
 
-- Developed **real-time data processing** and delivery systems for GNSS-R/RO satellite data with **strict latency requirements**, servicing customers such as NASA, NOAA, and EUMETSAT.  
-- Led an **ML-based sea ice detection** project, collaborating with scientists from concept to **production deployment**.  
-- Implemented cost optimization strategies, **reducing AWS expenses by $250K annually**.  
-- Employed **CI/CD pipelines** (Jenkins) and **Infrastructure as Code** (Terraform) to ensure scalable and reliable product releases.  
-*Technologies:* Python, Go, AWS, Docker, Postgres, Terraform, DynamoDB, Jenkins
+- Designed and implemented **real-time data processing systems** for GNSS-R/RO satellite data, meeting strict latency requirements for clients like NASA, NOAA, and EUMETSAT for multi-million USD contracts.
+- Led an **ML-based sea ice detection project**, collaborating with scientists from concept to **production deployment**.
+- Reduced AWS costs by **$250K annually** through strategic cost optimization initiatives.
+- Built and maintained **CI/CD pipelines** (Jenkins) and **Infrastructure as Code** (Terraform) for scalable and reliable deployments.
+- **Technologies:** Python, Go, AWS, Docker, Postgres, Terraform, DynamoDB, Jenkins
+---
 
-### <span>Software Engineer, Yaoota</span> <span>Oct 2020 -- Dec 2021</span>
+### **Software Engineer**
+**Yaoota** | Oct 2020 – Dec 2021
 
-- Maintained data pipelines and developed core systems for internet product scraping, feature extraction, data analysis, and ML solutions.
-- Worked on projects like Kipp (the main scraper for Yaoota) and Case (an internal NLP library).  
-- Switched hats between Software Engineer and Machine Learning Engineer to create ML solutions that enhanced data utilization, providing end-users with comprehensive product information from all verified stores in their region along with product history.
+- Maintained and enhanced **data pipelines** for web scraping, feature extraction, and data analysis.
+- Developed **ML solutions** to improve data utilization, enabling users to access comprehensive product information and history.
+- Key projects:
+  - **Kipp:** Main scraper for collecting product data across the internet.
+  - **Case:** Internal NLP library for data processing.
+- **Technologies:** Python, NLP, Redis, Docker
+---
 
-- Worked on key projects:
-  - Kipp: Main scraper for Yaoota, collecting product data across the internet.
-  - Case: Internal NLP library for data processing.
+### **Software Specialized Officer**
+**Egypt Air Forces** | Oct 2018 – Oct 2020
 
-*Technologies: Python, Git, NLP, Redis, Docker*
+- Developed and maintained software systems for various departments using **C#** and **Oracle databases**.
+- **Technologies:** C#, Oracle Database
+---
 
-### <span>Software Specialized Officer , Egypt Air Forces</span> <span>Oct 2018 -- Oct 2020</span>
+### **Software Engineer**
+**Elements Financial Technologies** | Aug 2017 – Mar 2018
+- Developed a **Payment Gateway as a Service** to provide online payment solutions for businesses of all sizes.
+- **Technologies:** Node.js, MongoDB, Docker, AWS
+---
 
-- Developing and maintaining software systems for many departments across the Air Forces Using Technologies like C# and Oracle databases 
+### **Freelance Python Developer**
+**Self-Employed** | Jan 2017 – Mar 2020
 
-*Technologies: C#, Oracle Database*
+- Created **data scraping scripts** and **machine learning models** for various clients.
+- **Technologies:** Python, Selenium, Scikit-learn
+---
 
+### **Intern Software Engineer**
+**Codescalers - Egypt** | Jul 2016 – Sep 2016
 
-### <span>Software Engineer, Elements Financial Technologies </span> <span>Aug 2017 -- Mar 2018</span>
-- Developing a Payment Gateway as a service for providing online payments for small/mid-level/big businesses
-*Technologies: Nodejs, MongoDB, Docker, AWS*
+- Built internal dashboards for monitoring cloud servers.
+- **Technologies:** Python, Flask
 
-
-
-### <span>Freelance Python Developer</span> <span>Jan 2017 -- Mar 2020</span>
-- Created data scraping scripts and machine learning models.  
-*Technologies: Python, Selenium, sklearn*
-
-### <span>Intern Software Engineer, Codescalers - Egypt</span> <span>Jul 2016 -- Sept 2016</span>
-
-- Developed internal dashboards for monitoring cloud servers.  
-*Technologies: Python, Flask*
+</br>
+---
 
 ## Education
 
-### <span>B.Sc. Computer & Systems Engineering, Mansoura University, Egypt</span> <span>2012 -- 2017</span>
+### **B.Sc. in Computer & Systems Engineering**
+**Mansoura University, Egypt** | 2012 – 2017
+
+---
 
 ## Skills
 
-- **Languages:** Python, Go, JavaScript, SQL
-- **Currently Learning:** Rust
-- **Concepts:** Machine Learning, Neural Networks, OOP, Algorithms & Data Structures, APIs, Test-Driven Development, Microservices
-- **Tools & Technologies:** Flask, MongoDB, GIT, Docker, Tensorflow, Keras, PyTorch, Numpy, Matplotlib, Scrapy, Redis, NLTK, Scikit-learn, AWS, Terraform, Postgres, DynamoDB
+- **Programming Languages:** Python, Go, JavaScript, SQL
+- **Core Competencies:** Cloud Technologies,Containers, Machine learning, Data Intensive applications, Neural Networks, OOP, Algorithms & Data Structures, APIs, Test-Driven Development, Microservices
+- **Tools & Technologies:** AWS, Terraform, Postgres, Jenkins, Github Actions, DynamoDB , MongoDB, Git, Docker, Numpy, Matplotlib, Scrapy, Redis, NLTK, Scikit-learn,
 
 ---
+
 ## Additional Information
-- **Blog:** Sharing insights on software engineering and machine learning at blog.m-ashour.space
+
+- **Blog:** Sharing insights on software engineering and machine learning at [blog.m-ashour.space](http://blog.m-ashour.space)
+- **YouTube:** Sharing educational content at [YouTube Channel](https://www.youtube.com/@mohammedashour1994)
 - **Interests:** Continuous learning, contributing to open-source projects, community mentorship
-- **Youtube:** Sharing engineering educational content  @ https://www.youtube.com/@mohammedashour1994/
